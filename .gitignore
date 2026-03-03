@@ -1,0 +1,27 @@
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Redis Cloud credentials
+.env
+
+# VSCode
+.vscode/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Classes Java (caso tenha)
+*.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outros
+*.sqlite3
+*.db
+*.egg-info/
